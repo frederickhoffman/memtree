@@ -1,4 +1,6 @@
-![MemTree Banner](assets/banner.png)
+<p align="center">
+  <img src="assets/banner.png" width="800" max-width="100%" alt="MemTree Header">
+</p>
 
 # 🌳 MemTree: Hierarchical Memory for LLMs
 
