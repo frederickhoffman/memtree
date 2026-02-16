@@ -5,7 +5,7 @@ import os
 # Ensure src is in python path
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-from src.eval.run import run_eval
+from src.eval.run import run_eval  # noqa: E402
 
 if __name__ == "__main__":
     print("Starting MemTree Evaluation...")
