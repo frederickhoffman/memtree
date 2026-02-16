@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+import sys
+import os
+
+# Ensure src is in python path
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+from src.eval.run import run_eval
+
+if __name__ == "__main__":
+    print("Starting MemTree Evaluation...")
+    run_eval()
