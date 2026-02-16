@@ -1,3 +1,5 @@
+![MemTree Banner](assets/banner.png)
+
 # 🌳 MemTree: Hierarchical Memory for LLMs
 
 [![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-blue)](https://github.com/langchain-ai/langgraph)
