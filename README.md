@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_v2.png" width="100%" alt="MemTree Header">
+  <img src="assets/banner_v3.png" width="100%" alt="MemTree Header">
 </p>
 
 # 🌳 MemTree: Hierarchical Memory for LLMs
